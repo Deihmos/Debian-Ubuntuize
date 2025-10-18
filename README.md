@@ -1,5 +1,12 @@
 # 🟠 Debian → Ubuntu Look Script
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-Bookworm-red?logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-Script-lightgrey?logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/github/license/Deihmos/Debian-Ubuntuize">
+  <img src="https://img.shields.io/github/stars/Deihmos/Debian-Ubuntuize?style=social">
+</p>
+
 ## Overview
 This script transforms a **Debian GNOME system** into one that looks and feels like **Ubuntu 25.10** — complete with Yaru themes, Ubuntu Sans fonts, dock, icons, sound theme, and Flatpak integration.  
 It’s ideal for users who prefer Debian’s stability but want Ubuntu’s modern design and polish.
