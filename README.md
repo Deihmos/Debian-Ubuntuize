@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-Bookworm-red?logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-Script-lightgrey?logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/github/license/Deihmos/Debian-Ubuntuize">
+  <img src="https://img.shields.io/github/stars/Deihmos/Debian-Ubuntuize?style=social">
+</p>
 # 🟠 Debian → Ubuntu Look Script
 
 ## Overview
