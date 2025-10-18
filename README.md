@@ -46,12 +46,12 @@ sudo bash debian-ubuntuize.sh apply
 SKIP_FONTS=1 SKIP_YARU_BUILD=1 sudo bash debian-ubuntuize.sh apply
 ```
 
-### 3. Refresh existing configuration later
+### 3. Refresh existing configuration after reboot or logout
 ```bash
 sudo bash debian-ubuntuize.sh refresh
 ```
 
-### 4. Remove Yaru themes/icons
+### 4. Remove built Yaru themes/icons
 ```bash
 sudo bash debian-ubuntuize.sh remove-yaru
 ```
