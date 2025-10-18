@@ -90,6 +90,3 @@ sudo bash debian-ubuntuize.sh apply
 ```
 
 ---
-
-## 📄 License
-MIT License © 2025 Your Name
