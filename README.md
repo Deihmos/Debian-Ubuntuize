@@ -14,7 +14,7 @@ It’s ideal for users who prefer Debian’s stability but want Ubuntu’s moder
   - User Theme
 - 🔸 **Applies Ubuntu 25.10 font and theme settings**
 - 🔸 **Configures Flatpak** with Flathub integration inside GNOME Software
-- 🔸 **Optionally purges** unneeded GNOME apps (Calendar, Contacts, Music, etc.)
+- 🔸 **Optionally purges** unneeded GNOME apps (LibreOffice suite, GNOME Maps, GNOME Videos, etc)
 - 🔸 **Sets GRUB** to `quiet splash`
 - 🔸 **Optionally configures ZRAM swap** for improved memory performance
 - 🔸 **Includes feature flags** to skip steps and rerun safely
