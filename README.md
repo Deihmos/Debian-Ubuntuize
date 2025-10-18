@@ -19,6 +19,14 @@ It’s ideal for users who prefer Debian’s stability but want Ubuntu’s moder
 - 🔸 **Optionally configures ZRAM swap** for improved memory performance
 - 🔸 **Includes feature flags** to skip steps and rerun safely
 
+## 📸 Screenshots
+
+### 🖼 Desktop View (After Applying Script)
+<img src="images/desktop-look.png" alt="Ubuntu-like Desktop on Debian" width="900">
+
+### 🗂 App Grid / Activities Overview
+<img src="images/app-grid-look.png" alt="App Grid after theme applied" width="900">
+
 ---
 
 ## 🧰 Requirements
