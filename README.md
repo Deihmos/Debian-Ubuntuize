@@ -32,7 +32,7 @@ It’s ideal for users who prefer Debian’s stability but want Ubuntu’s moder
 
 ### 1. Download the script
 ```bash
-wget https://github.com/<your-repo>/debian-ubuntuize.sh
+wget https://github.com/<your-repo>/debian-ubuntuize.sh](https://raw.githubusercontent.com/Deihmos/Debian-Ubuntuize/main/debian-ubuntuize.sh
 chmod +x debian-ubuntuize.sh
 ```
 
