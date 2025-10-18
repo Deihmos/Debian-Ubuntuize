@@ -97,5 +97,7 @@ SKIP_FONTS=1 SKIP_FLATPAK=1 sudo bash debian-ubuntuize.sh apply
 ```bash
 sudo bash debian-ubuntuize.sh apply
 ```
+## 📄 License
+MIT License © 2025 Deihmos — free to use, modify, and distribute.
 
 ---
